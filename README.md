@@ -1,4 +1,4 @@
-Hi 👋 My name is Myacon
+Myacon
 =======================
 
 Aprendendo
