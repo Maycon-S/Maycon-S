@@ -1,7 +1,7 @@
 Myacon
 =======================
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maycon-S&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Maycon-S&theme=tokyonight"/>
 </div>
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maycon-S&theme=omni"/>
@@ -11,8 +11,6 @@ Myacon
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maycon-S&theme=omni"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maycon-S&theme=dracula&utcOffset=-3"/>
 </div>
-
----
 
 ## Cursando Desenvolvimento de Sistemas
 
