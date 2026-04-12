@@ -45,7 +45,7 @@ Myacon
 [<img align="left" height="94px" width="94px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69dbc88a&is=69da770a&hm=e1e179c0f78cec1c155ea8a2ed8ae3fa9a7b393349558ca1d38a0091c70756c9&"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
-[**Maycon-S**](https://github.com/Maycon-S) • Projetos pessoais \
+[**Maycon-S**](https://github.com/Maycon-S) • Projetos pessoais desenvolvimento um mod \
 Linguagens De projetos: `JavaScript`, \
 <br/>
 
