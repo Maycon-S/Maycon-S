@@ -48,5 +48,11 @@
 Linguagens De projetos: `JavaScript`, `java`, \
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="GitHub" src="https://images-ext-1.discordapp.net/external/BiUhozb8AZ0f2FVKhlw10ie4QUslf6g_vApg1zcH5LE/https/i.postimg.cc/m2yGyxsk/Logo-Meka-Pedido-Renan.png?format=webp&quality=lossless"/>](https://github.com/Maycon-S/MekaMinersOasis)
+
+**MeKaMiners Brasil** \
+[**Maycon-S**](https://github.com/Maycon-S) • Projeto\
+Linguagens De projetos: `JavaScript`, `java`, \
+<br/>
 
 
