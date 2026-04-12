@@ -46,7 +46,7 @@ Myacon
 
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S) • Projetos pessoais desenvolvimento um mod \
-Linguagens De projetos: `JavaScript`, \
+Linguagens De projetos: `JavaScript`, `java`, \
 <br/>
 
 
