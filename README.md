@@ -43,14 +43,14 @@
 [<img align="left" height="94px" width="94px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69dbc88a&is=69da770a&hm=e1e179c0f78cec1c155ea8a2ed8ae3fa9a7b393349558ca1d38a0091c70756c9&"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
-[**Maycon-S**](https://github.com/Maycon-S) • Projetos pessoais desenvolvimento um mod \
+[**Maycon-S**](https://github.com/Maycon-S) • Projeto pessoal para desenvolver um mod \
 Linguagens De projetos: `JavaScript`, `java`,\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="GitHub" src="https://images-ext-1.discordapp.net/external/BiUhozb8AZ0f2FVKhlw10ie4QUslf6g_vApg1zcH5LE/https/i.postimg.cc/m2yGyxsk/Logo-Meka-Pedido-Renan.png?format=webp&quality=lossless"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 **MeKaMiners Brasil** \
-[**Maycon-S**](https://github.com/Maycon-S) • Projeto\
+[**Maycon-S**](https://github.com/Maycon-S) • Projeto de um Servidor\
 Linguagens De projetos: `JavaScript`, \
 <br/>
 
