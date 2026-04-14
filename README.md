@@ -47,7 +47,14 @@
 Linguagens De projetos: `JavaScript`, `java`,\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="GitHub" src="https://images-ext-1.discordapp.net/external/BiUhozb8AZ0f2FVKhlw10ie4QUslf6g_vApg1zcH5LE/https/i.postimg.cc/m2yGyxsk/Logo-Meka-Pedido-Renan.png?format=webp&quality=lossless"/>](https://github.com/Maycon-S/MekaMinersOasis)
+[<img align="left" height="190px" width="190px" alt="GitHub" src="https://cdn.discordapp.com/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69deac97&is=69dd5b17&hm=913a6a94764479ca279ea339faec415202628a81d01c33301efcedca74c705cb&"/>](https://github.com/Maycon-S/MekaMinersOasis)
+
+**MeKaMiners Brasil** \
+[**Maycon-S**](https://github.com/Maycon-S) • Projeto de um Servidor MekaMinersOasis\
+Linguagens De projetos: `JavaScript`, \
+<br/>
+
+[<img align="left" height="190px" width="190px" alt="GitHub" src="https://cdn.discordapp.com/attachments/579323879105757194/1262476735442714674/PNG_Oceans.png?ex=69de8815&is=69dd3695&hm=5f145129473aee0c9fa2f2f25342ada8aa5333b1973beaa0dbf28eb0b00120f0&"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) • Projeto de um Servidor MekaMinersOasis\
