@@ -44,14 +44,14 @@
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
-[<img align="left" height="94px" width="94px" alt="GitHub" src=""/>](https://github.com/Maycon-S/TineTiDev)
+[<img align="left" height="180px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/1241905821399519324/1494531934569627820/image.png?ex=69e2f2d4&is=69e1a154&hm=5e08f2569e58424f03fa3c08ca0f31c55e031a138788aaeeb92dfda02ed6b09e&=&format=webp&quality=lossless"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod \
 Linguagens De projetos: `JavaScript`, `java`,\
 <br/>
 
-[<img align="left" height="160px" width="160px" alt="GitHub" src="https://cdn.discordapp.com/attachments/579323879105757194/1385874193106731093/2.0.png?ex=69e280ab&is=69e12f2b&hm=79d7ebdf0a19057dfa9c8157db23dee97c0fcfd1331217765e1e5b88e3fb0b95&"/>](https://github.com/Maycon-S/MekaMinersOasis)
+[<img align="left" height="160px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69e2a117&is=69e14f97&hm=a599ab989f97ddfd45ff4b1321cfe5659b649eb08dae692b3aa593060ffb142d&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMinersOasis\
@@ -60,7 +60,7 @@ Linguagens De projetos: `JavaScript`, \
 
 
 
-[<img align="left" height="150px" width="150px" alt="GitHub" src="https://cdn.discordapp.com/attachments/579323879105757194/1385874193106731093/2.0.png?ex=69e280ab&is=69e12f2b&hm=79d7ebdf0a19057dfa9c8157db23dee97c0fcfd1331217765e1e5b88e3fb0b95&"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
+[<img align="left" height="150px" width="150px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1262476735442714674/PNG_Oceans.png?ex=69e27c95&is=69e12b15&hm=00618fdb45a48cebebfdf58ae64596587e7638e0e30a53684521005748923b7a&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMiners-Oceans\
