@@ -48,14 +48,14 @@
 
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod \
-Linguagens De projetos: `JavaScript`, `java`,\
+Linguagens Do projeto: `JavaScript`, `java`,\
 <br/>
 
 [<img align="left" height="160px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69e2a117&is=69e14f97&hm=a599ab989f97ddfd45ff4b1321cfe5659b649eb08dae692b3aa593060ffb142d&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMinersOasis\
-Linguagens De projetos: `JavaScript`, \
+Linguagens Do projeto: `JavaScript`, \
 <br/>
 
 
@@ -64,7 +64,7 @@ Linguagens De projetos: `JavaScript`, \
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMiners-Oceans\
-Linguagens De projetos: `JavaScript`, \
+Linguagens Do projeto: `JavaScript`, \
 <br/> 
 
 
