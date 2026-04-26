@@ -13,9 +13,6 @@
 
 ## Cursando Desenvolvimento de Sistemas
 
-
-
-
 * 🖥️  See my portfolio at [Maycon-S](http:////github.com/Maycon-S)
 * ✉️  You can contact me at [maynions@gmail.com](mailto:maynions@gmail.com)
 * 🚀  I'm currently working on [TineTiDev](http://github.com/Maycon-S/TineTiDev)
@@ -43,13 +40,12 @@
 
 ## Projetos
 
-
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 [<img align="left" height="180px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/1241905821399519324/1494531934569627820/image.png?ex=69e4ed14&is=69e39b94&hm=708827a2293bc07cd048feae0dbcc84385da451aa7148ce2a479dedf9ebed6ae&=&format=webp&quality=lossless"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
-[**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod \
+[**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod\
 Linguagens Do projeto: `JavaScript`, `java`,\
 <br/>
 
