@@ -42,7 +42,7 @@
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
-[<img align="left" height="180px" width="160px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
+[<img align="left" height="140px" width="140px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod\
@@ -50,13 +50,20 @@ Linguagens Do projeto: `JavaScript`, `java`,\
 <br/>
 
 
-[<img align="left" height="160px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69fef957&is=69fda7d7&hm=42515b7bcc3ed8f5f84aca8952cb71cfa953f01d1721e6763f69221d9f20b69c&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
+
+
+
+[<img align="left" height="140px" width="140px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69fef957&is=69fda7d7&hm=42515b7bcc3ed8f5f84aca8952cb71cfa953f01d1721e6763f69221d9f20b69c&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMinersOasis\
 Linguagens Do projeto: `JavaScript`, \
 <br/>
+
+
+
+
 
 
 [<img align="left" height="150px" width="150px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1262476735442714674/PNG_Oceans.png?ex=69fed4d5&is=69fd8355&hm=07e2957879461fbc968c65ffa167ffc180da2785c729a4468ae5f74583b07405&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
