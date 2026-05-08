@@ -50,7 +50,7 @@ Linguagens Do projeto: `JavaScript`, `java`,\
 <br/>
 
 
-[<img align="left" height="160px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69e2a117&is=69e14f97&hm=a599ab989f97ddfd45ff4b1321cfe5659b649eb08dae692b3aa593060ffb142d&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
+[<img align="left" height="160px" width="160px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69fef957&is=69fda7d7&hm=42515b7bcc3ed8f5f84aca8952cb71cfa953f01d1721e6763f69221d9f20b69c&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 
 **MeKaMiners Brasil** \
