@@ -42,7 +42,7 @@
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
-[<img align="left" height="140px" width="140px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
+[<img align="left" height="100px" width="120px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
 
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod\
