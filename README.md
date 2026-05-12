@@ -10,7 +10,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maycon-S&theme=dracula&utcOffset=-3"/>
 </div>
 
-
 ## Cursando Desenvolvimento de Sistemas
 
 * 🖥️  See my portfolio at [Maycon-S](http:////github.com/Maycon-S)
@@ -25,7 +24,6 @@
 
 
 ### Habilidades
-
 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
@@ -44,25 +42,22 @@
 
 [<img align="left" height="100px" width="120px" alt="GitHub" src="https://cdn.discordapp.com/attachments/1241905821399519324/1451793745946218628/image.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
 
+
 **TineTiDev** \
 [**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod\
 Linguagens Do projeto: `JavaScript`, `java`,\
 <br/>
 
 
-
-
-
 [<img align="left" height="140px" width="140px" alt="GitHub" src="https://media.discordapp.net/attachments/579323879105757194/1340066940009447464/Anuncio_MekaOasis8png.png?ex=69fef957&is=69fda7d7&hm=42515b7bcc3ed8f5f84aca8952cb71cfa953f01d1721e6763f69221d9f20b69c&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
+
+
 
 
 **MeKaMiners Brasil** \
 [**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMinersOasis\
 Linguagens Do projeto: `JavaScript`, \
 <br/>
-
-
-
 
 
 
