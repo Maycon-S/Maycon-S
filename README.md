@@ -11,7 +11,7 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-## Studying Systems Development teste
+## Studying Systems Development
 
 * 🖥️  See my portfolio at [Maycon-S](http:////github.com/Maycon-S)
 * ✉️  You can contact me at [maynions@gmail.com](mailto:maynions@gmail.com)
@@ -44,8 +44,8 @@
 
 
 **TineTiDev** \
-[**Maycon-S**](https://github.com/Maycon-S)  • Projeto pessoal para desenvolver um mod\
-Linguagens Do projeto: `JavaScript`, `java`,\
+[**Maycon-S**](https://github.com/Maycon-S)  • Personal project to develop a mod
+Project languages: `JavaScript`, `java`,\
 <br/>
 
 
@@ -55,8 +55,8 @@ Linguagens Do projeto: `JavaScript`, `java`,\
 
 
 **MeKaMiners Brasil** \
-[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMinersOasis\
-Linguagens Do projeto: `JavaScript`, \
+[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • MekaMinersOasis Server Project\
+Design Languages: `JavaScript`, \
 <br/>
 
 
@@ -65,6 +65,6 @@ Linguagens Do projeto: `JavaScript`, \
 
 
 **MeKaMiners Brasil** \
-[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • Projeto de um Servidor MekaMiners-Oceans\
-Linguagens Do projeto: `JavaScript`, \
+[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • MekaMiners-Oceans Server Project\
+Design Languages: `JavaScript`, \
 <br/> 
