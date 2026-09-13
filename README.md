@@ -36,11 +36,13 @@
 <p align="left"> <a href="https://discord.com/users/maycon9111" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 
+
 ## Projetos
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
 [<img align="left" height="100px" width="120px" alt="GitHub" src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png?ex=69feb84a&is=69fd66ca&hm=15e2ba0c30ca3e491e045cfc2cfb91a497ba2a6b093e1158883346685cfdbeaa&"/>](https://github.com/Maycon-S/TineTiDev)
+
 
 
 **TineTiDev** \
@@ -55,13 +57,16 @@ Project languages: `JavaScript`, `java`,\
 
 
 **MeKaMiners Brasil** \
-[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • MekaMinersOasis Server Project\
+[**Maycon-S**](https://github.com/Maycon-S) [**HelpAStranger**](https://github.com/HelpAStranger) • MekaMinersOasis Server Project
 Design Languages: `JavaScript`, \
 <br/>
 
 
 
+
 [<img align="left" height="150px" width="150px" alt="GitHub" src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png?ex=69fed4d5&is=69fd8355&hm=07e2957879461fbc968c65ffa167ffc180da2785c729a4468ae5f74583b07405&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
+
+
 
 
 **MeKaMiners Brasil** \
