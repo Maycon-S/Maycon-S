@@ -10,8 +10,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maycon-S&theme=dracula&utcOffset=-3"/>
 </div>
 
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-## Cursando Desenvolvimento de Sistemas
+## Currently studying Systems Development
+
 
 * 🖥️  See my portfolio at [Maycon-S](http:////github.com/Maycon-S)
 * ✉️  You can contact me at [maynions@gmail.com](mailto:maynions@gmail.com)
@@ -30,14 +32,14 @@
 </p>
 
 
-### Redes Socials
+### Social media
 
 
 <p align="left"> <a href="https://discord.com/users/maycon9111" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
 
 
-## Projetos
+## Projects
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
