@@ -67,7 +67,7 @@ Design Languages: `JavaScript`, \
 
 
 
-[<img align="left" height="150px" width="150px" alt="GitHub" src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png?ex=69fed4d5&is=69fd8355&hm=07e2957879461fbc968c65ffa167ffc180da2785c729a4468ae5f74583b07405&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
+[<img align="left" height="140px" width="140px" alt="GitHub" src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png?ex=69fed4d5&is=69fd8355&hm=07e2957879461fbc968c65ffa167ffc180da2785c729a4468ae5f74583b07405&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/HelpAStranger/MekaMiners-Oceans)
 
 
 
