@@ -53,7 +53,6 @@
 Project languages: `JavaScript`, `java`,\
 <br/>
 
-
 [<img align="left" height="140px" width="140px" alt="GitHub" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png?ex=69fef957&is=69fda7d7&hm=42515b7bcc3ed8f5f84aca8952cb71cfa953f01d1721e6763f69221d9f20b69c&=&format=webp&quality=lossless&width=1232&height=693"/>](https://github.com/Maycon-S/MekaMinersOasis)
 
 
