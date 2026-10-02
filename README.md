@@ -25,7 +25,7 @@
 </p>
 
 
-* ### Skills
+### Skills
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-## Projects
+* ## Projects 
 
  <img src="https://it-implant.ru/images/cms/data/raschet-stoimosti-autsorsinga.png" min-width="400px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
 
